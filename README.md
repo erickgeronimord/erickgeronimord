@@ -4,9 +4,3 @@
 •	Optimize sales routes and logistics: Apply geospatial analysis to redesign delivery or sales routes, improving productivity and reducing operating costs.
 •	Facilitate executive-level visibility: Create high-impact visual dashboards for executives that summarize business performance, financial indicators, and predictive insights in real time.
 •	Connecting business and data teams: Acting as a strategic link between business teams and IT/data functions, ensuring that data solutions align with real business needs.
-
-
-<!---
-erickgeronimord/erickgeronimord is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
